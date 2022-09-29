@@ -1,4 +1,4 @@
-file = open("input.txt", "r").readlines();
+file = open("input.txt", "r").readlines()
 pairs=["db","bd","pq","qp"]
 print("Ready")
 for i in file:
